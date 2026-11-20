@@ -1,0 +1,12 @@
+threshold,method,table,published_mb
+128,NTT,3,0.004337
+256,NTT,3,0.007549
+512,NTT,3,0.015121
+1024,NTT,3,0.030315
+2048,NTT,3,0.060555
+4096,NTT,3,0.121628
+8192,NTT,3,0.242771
+128,Lagrange,3,0.001030
+128,Barycentric,3,0.000549
+128,vandermonde,3,0.005676
+256,vandermonde,3,0.004326

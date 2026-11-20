@@ -1,0 +1,11 @@
+{
+  "cpu": "Apple M4 Pro",
+  "os": "macOS-26.6.2-arm64-arm-64bit",
+  "python": "3.12.14",
+  "pycryptodome": "3.23.0",
+  "sizes_bytes": [
+    4096,
+    1048576
+  ],
+  "repetitions": 3
+}

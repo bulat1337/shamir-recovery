@@ -1,0 +1,20 @@
+{
+  "cpu": "Apple M4 Pro",
+  "os": "macOS-26.6.2-arm64-arm-64bit",
+  "python": "3.12.14",
+  "p": 2013265921,
+  "secret": 987654321,
+  "generator": 31,
+  "sizes": [
+    128,
+    256,
+    512,
+    1024,
+    2048,
+    4096,
+    8192
+  ],
+  "repetitions": 10,
+  "extra_max": 256,
+  "memory_max": 512
+}
